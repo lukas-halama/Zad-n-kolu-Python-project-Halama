@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-11-27T13:00:22.273397",
+    "project_folder": "/home/lukas/Novy_projekt_halama_2025_27.11",
+    "project_folder_hash": "5f52591833698ce95cfc67f76428e689b0310a090d3e5451882e316862892167",
+    "python_executable": "/home/lukas/Novy_projekt_halama_2025_27.11/.venv/bin/python",
+    "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "public_ip": "193.142.203.202",
+    "local_ip": "10.5.0.2",
+    "unique_token": "5c03fbd1e40b3799c140d251247ac07a5d469667633e7a3a6c04bcb6e5f2763d",
+    "system_info": {
+        "os": "Linux",
+        "os_version": "#35~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 13:55:17 UTC 2",
+        "machine": "x86_64",
+        "processor": "x86_64"
+    }
+}
