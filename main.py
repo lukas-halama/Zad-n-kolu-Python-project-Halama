@@ -16,7 +16,7 @@ def get_public_ip():
             return json.loads(r.read().decode()).get("ip", "Unknown")
     except Exception:
         return "Unknown"
-
+#ss
 
 def get_local_ip():
     """Vrátí lokální IP adresu."""
